@@ -1,0 +1,11 @@
+nav {
+    display: flex;
+    align-items: center;
+    width: 80vw;
+    height: 80px;
+    background-color: rgb(45,155,213)
+}
+h1 {
+    font-size: 30px;
+    margin-left: 20px;
+}
